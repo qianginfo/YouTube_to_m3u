@@ -1,81 +1,54 @@
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+~~ DO NOT EDIT THE FIRST 2 LINES	
+	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+	
 
-
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
-
-CCTV4 | China |  |
-https://www.youtube.com/watch?v=QTz6avPD4Ns
-4K | 4k |  |
-https://www.youtube.com/watch?v=rw7bxTqkYYs
-
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
-
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=mBzrxNHF2u8
-
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
-
-中天新闻 |台湾||
-https://www.youtube.com/watch?v=_QbRXRnHMVY
-
-TVBS |台湾||
+TVBS新聞 | 台湾新闻 | https://yt3.googleusercontent.com/ytc/AGIKgqNHI64XJOiA3nXv1HYbzUDD3fmUZx-kFzr--dwnKA |
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-台視新聞台 |台湾||
+TVBS NEWS | 台湾新闻 | https://yt3.googleusercontent.com/ytc/AGIKgqNHI64XJOiA3nXv1HYbzUDD3fmUZx-kFzr--dwnKA |
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+台視新聞 | 台湾新闻 | https://yt3.googleusercontent.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w |
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-三立海外直播 |台湾||
+三立海外 | 台湾新闻 | https://yt3.googleusercontent.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6 |
 https://www.youtube.com/watch?v=FoBfXvlOR6I
 
-中視新聞 |台湾||
-https://www.youtube.com/watch?v=TCnaIE_SAtM
-
-寰宇新聞台 |台湾||
-https://www.youtube.com/watch?v=B7Zp3d6xXWw
-
-国家地理 |世界||
-https://www.youtube.com/watch?v=OQz-efDv01k
-
-YTN | 韩国 |  |
-https://www.youtube.com/watch?v=vEO6wO0QsX8
-
-KBS | 韩国 |  |
-https://www.youtube.com/watch?v=1WhB1z0bWGs
-
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
-
-ABC  |英语||
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
-
-凤凰卫视HD  |香港||
-https://www.youtube.com/watch?v=xyyvJ_KgTlg
-
-热门音乐  |香港||
-https://www.youtube.com/watch?v=wrYF0HX7Kzc
-
-欧美音乐  |香港||
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-欧美音乐1  |香港||
-https://www.youtube.com/watch?v=oVu-aAMV9c8
-
-三立新闻 |台湾||
+三立iNEWS | 台湾新闻 | https://yt3.googleusercontent.com/rS8fsWXkWsDhn-bSqptDJnDT-PvRTrTGdAWCN330ufQvaJJWGK-yZZVnUtVM74eX64vnvhqx |
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
-東森新聞  |台湾||
+三立NEWS+ | 台湾新闻 | https://yt3.googleusercontent.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6 |
+https://www.youtube.com/watch?v=jlldIiGA5bU
+
+東森新聞 | 台湾新闻 | https://yt3.googleusercontent.com/ytc/AGIKgqPQ2F57q130Bx3LWfKHURDewS9tiVKyWou6HtNXdw |
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
-東森財經新聞  |台湾||
+東森LIVE | 台湾新闻 | https://yt3.googleusercontent.com/ytc/AGIKgqPQ2F57q130Bx3LWfKHURDewS9tiVKyWou6HtNXdw |
+https://www.youtube.com/watch?v=R2iMq5LKXco
+
+東森財經新聞 | 台湾新闻 | https://yt3.googleusercontent.com/ytc/AGIKgqN7UPyFyafdNM8AzOt-HYjMqS5lWuJaXhPuAnTf |
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-机场免费节点 |||
-https://www.youtube.com/watch?v=0LFElpy53aU
+東森財經股市 | 台湾新闻 | https://yt3.googleusercontent.com/ytc/AGIKgqN7UPyFyafdNM8AzOt-HYjMqS5lWuJaXhPuAnTf |
+https://www.youtube.com/watch?v=LbS-xQ67fos
 
-東森娛樂台live |
-https://www.youtube.com/watch?v=AH053CqyXWg
+中視新聞 | 台湾新闻 | https://yt3.googleusercontent.com/yibEHBX4Sfi2BPrad679w0sKiDCSQjx67PaGMU3AhPoZAMILyAVlxcHseLqvSP2hBlVxsYG- |
+https://www.youtube.com/watch?v=TCnaIE_SAtM
 
+民視新聞 | 台湾新闻 | https://yt3.googleusercontent.com/ytc/AGIKgqPrZcJOXaFF3gSwhY2CRABr8peyfFP8xLjZoATY5w |
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+民視快新聞 | 台湾新闻 | https://yt3.googleusercontent.com/ytc/AGIKgqPrZcJOXaFF3gSwhY2CRABr8peyfFP8xLjZoATY5w |
+https://www.youtube.com/watch?v=uB8acN2L_fc
+
+寰宇新聞 | 台湾新闻 | https://yt3.googleusercontent.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ |
+https://www.youtube.com/watch?v=DDvdmzvaNJs
+
+寰宇台湾新聞 | 台湾新闻 | https://yt3.googleusercontent.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ |
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
+
+华视新聞 | 台湾新闻 | https://yt3.googleusercontent.com/mYY5rTK5c8I9ZQ7g8Rq_Fi7naM4_ZNcODZISbqyw2cv-0R_4FKF2_1t2Vp6JeW8pVw5eFvak |
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+中天新聞 | 台湾新闻 | https://yt3.googleusercontent.com/ytc/AGIKgqMHErbLiut6WJQVvChpo3FqvlpxWEQ0l2PZsrdvrg |
+https://www.youtube.com/watch?v=OZ80UvEzqrE
